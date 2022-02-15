@@ -16,7 +16,7 @@ I am a Principal (Full stack) Engineer from the Iowa.
 - 🔭 I’m working as a Principal Engineer and contributing to frontend and backend for building SaaS Platforms for a High growth startup.
 - 🌱 Occasionally present and help organize technical meetups.
 - ⚡ In my free time I hunt mushrooms, train dogs, and (try to) grow foods.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-clark-267515131/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Michael W. Clark-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-clark-267515131/)
 
 ---
 
