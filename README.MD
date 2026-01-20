@@ -11,7 +11,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Principal (Full stack) Engineer from Iowa.
+I am Full stack Engineering Leader from Iowa.
 
 - 🔭 I’m working as a Director of Engineering and contributing to frontend and backend for building SaaS Platforms for a High growth startup.
 - 🌱 Occasionally present and help organize technical meetups.
